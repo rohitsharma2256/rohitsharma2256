@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohit Sharma
 
-<!--
-**rohitsharma2256/rohitsharma2256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Java Backend Developer** with a strong foundation in building scalable REST APIs and backend systems using **Spring Boot, JPA, Hibernate, and PostgreSQL/MySQL**.
 
-Here are some ideas to get you started:
+I love solving real-world problems through code and constantly improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+- 🔭 I’m currently focused on backend development and clean architectures.
+- 🌱 Continuously learning advanced Java, microservices, and cloud technologies.
+- ⚙️ Tech Stack: **Java | Spring Boot | Hibernate | REST APIs | PostgreSQL | MySQL | Git | Maven**
+- 📊 I enjoy solving algorithm challenges and improving my problem-solving skills.
+
+---
+
+## 📌 Featured Projects
+
+Here are a few projects I'm proud of:
+
+### 🧠 AI-Driven Ticketing System
+**Smart AI-driven support ticket management system** using Spring Boot and JPA — implements intelligent ticket categorization and priority detection.
+
+### 🗂 Smart Task Manager API
+**Spring Boot Task Management Backend API** — build RESTful task services with clean architecture and complete CRUD.
+
+### 🔗 LeetCode Progress
+A snapshot of my LeetCode profile showing algorithm practice and progress over time.
+
+---
+
+## 📫 Let’s Connect!
+
+Feel free to reach out:
+
+- 📧 Email: rohitsharma250602@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-sharma-250602/
+
+---
+
+## 🚀 Fun Fact
+
+I love writing clean, testable code and I’m always exploring new backend technologies!
