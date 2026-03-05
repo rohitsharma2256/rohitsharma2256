@@ -35,7 +35,7 @@ A snapshot of my LeetCode profile showing algorithm practice and progress over t
 Feel free to reach out:
 
 - 📧 Email: rohitsharma250602@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rohit-sharma-250602/
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-sharma-14aab6293/
 
 ---
 
