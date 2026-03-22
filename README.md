@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Sharma
 
-I'm a passionate **Java Backend Developer** with a strong foundation in building scalable REST APIs and backend systems using **Spring Boot, JPA, Hibernate, and PostgreSQL/MySQL**.
+I'm a passionate **Java Backend Developer** with a strong foundation in building scalable RESTful APIs and backend systems using **Java, Spring Boot, REST APIs JPA, Hibernate, PostgreSQL/MySQL**.
 
 I love solving real-world problems through code and constantly improving my software engineering skills.
 
