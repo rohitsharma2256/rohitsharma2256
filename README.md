@@ -1,44 +1,41 @@
-# 👋 Hi, I'm Rohit Sharma
+## 👋 Hi, I'm Rohit Sharma
 
-I'm a passionate **Java Backend Developer** with a strong foundation in building scalable RESTful APIs and backend systems using **Java, Spring Boot, REST APIs JPA, Hibernate, PostgreSQL/MySQL**.
+Java backend developer focused on building scalable REST APIs — and increasingly, on the part of backend that's getting interesting: connecting AI agents to real systems.
 
-I love solving real-world problems through code and constantly improving my software engineering skills.
-
----
-
-## 💼 About Me
-
-- 🔭 I’m currently focused on backend development and clean architectures.
-- 🌱 Continuously learning advanced Java, microservices, and cloud technologies.
-- ⚙️ Tech Stack: **Java | Spring Boot | Hibernate | REST APIs | PostgreSQL | MySQL | Git | Maven**
-- 📊 I enjoy solving algorithm challenges and improving my problem-solving skills.
+I work mostly with **Java + Spring Boot**, and I've been building hands-on with **Model Context Protocol (MCP)** and **Spring AI** — letting LLM agents safely execute real backend operations instead of just answering questions. It's an area most backend devs haven't touched yet, and I find it genuinely fun.
 
 ---
 
-## 📌 Featured Projects
+### 🛠 What I work with
 
-Here are a few projects I'm proud of:
+**Core:** Java (8–21) · Spring Boot · Spring Data JPA · Hibernate · REST API design
+**Data:** PostgreSQL · relational schema design · transactions & concurrency
+**AI / Agentic:** Spring AI · Model Context Protocol (MCP) · LLM tool integration
+**Infra:** Docker · Docker Compose · Git · GitHub Actions
 
-### 🧠 AI-Driven Ticketing System
-**Smart AI-driven support ticket management system** using Spring Boot and JPA — implements intelligent ticket categorization and priority detection.
-
-### 🗂 Smart Task Manager API
-**Spring Boot Task Management Backend API** — build RESTful task services with clean architecture and complete CRUD.
-
-### 🔗 LeetCode Progress
-A snapshot of my LeetCode profile showing algorithm practice and progress over time.
+Currently going deeper on system design, distributed systems, and getting AI-agent backends production-ready (RAG, evals, observability).
 
 ---
 
-## 📫 Let’s Connect!
+### 📂 Projects I'd point you to first
 
-Feel free to reach out:
+**🛒 NextGenCommerce — Agentic AI E-commerce Backend**
+An AI-integrated shopping backend built on MCP, exposing cart operations as agentic tools (`addToCart`, `getCartTotal`, etc.) so LLM agents can drive real workflows against live services. Tested end-to-end with Claude Desktop as the MCP client. → [repo link]
 
-- 📧 Email: rohitsharma250602@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rohit-sharma-14aab6293/
+**📅 Global Class Booking System**
+Scalable booking backend with conflict detection and transactional integrity to prevent double-booking under concurrent requests, plus a timezone-aware scheduling engine using the Java Time API. → [repo link]
+
+**🎫 AI-Driven Ticketing System**
+Self-service helpdesk backend with automatic priority detection and team routing, built with a pluggable classification layer so LLM-based categorization drops in without touching core services. → [repo link]
 
 ---
 
-## 🚀 Fun Fact
+### 📫 Reach me
 
-I love writing clean, testable code and I’m always exploring new backend technologies!
+- 📧 rohitsharma250602@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-sharma-14aab6293/)
+- 🧩 [LeetCode](https://leetcode.com/u/rohitsharma250602/)
+
+---
+
+*Currently building toward production-grade AI-agent backends. Open to backend roles and interesting problems.*
