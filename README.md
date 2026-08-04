@@ -26,7 +26,7 @@ Currently going deeper on system design, distributed systems, and getting AI-age
 
 ## 📂 Projects I'd point you to first
 
-### 🧾 [ComplianceIQ — AI Payroll Compliance SaaS](https://github.com/rohitsharma2256/complianceiq-showcase) &nbsp; [`🔴 Live Demo`](http://13.207.190.195:3000/login)
+### 🧾 [ComplianceIQ — AI Payroll Compliance SaaS](https://github.com/rohitsharma2256/complianceiq-showcase) &nbsp; [`🔴 Live Demo`](https://compliance-iq.co.in)
 A **live, multi-tenant SaaS** on AWS EC2 automating Indian payroll compliance (EPF, ESI, TDS, PT) across **30+ REST APIs** — cutting a chartered accountant's 2–3 hour Excel workflow to under 2 minutes.
 
 - **Agentic AI assistant** (Spring AI + MCP) where the LLM autonomously invokes 6 server-side tools to run compliance checks, surface violations with fixes, and generate audit reports
