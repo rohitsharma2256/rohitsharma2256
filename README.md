@@ -4,7 +4,7 @@
 
 I work mostly with **Java + Spring Boot**, and I've been going hands-on with **Model Context Protocol (MCP)** and **Spring AI** — letting LLM agents safely execute real backend operations instead of just answering questions. It's an area most backend devs haven't touched yet, and I find it genuinely fun.
 
-🚀 **Currently live:** [ComplianceIQ](http://13.207.190.195:3000/login) — a multi-tenant AI SaaS on AWS EC2, automating Indian payroll compliance for CA firms.
+🚀 **Currently live:** [ComplianceIQ](https://compliance-iq.co.in) — a multi-tenant AI SaaS on AWS EC2, automating Indian payroll compliance for CA firms.
 
 ---
 
