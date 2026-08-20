@@ -41,7 +41,7 @@ A **live, multi-tenant SaaS** on AWS EC2 automating Indian payroll compliance (E
 ### 🛒 [NextGenCommerce — Agentic AI E-commerce Backend](https://github.com/rohitsharma2256)
 An AI-integrated shopping backend built on MCP, exposing cart operations as agentic tools (`addToCart`, `getCartTotal`, etc.) so LLM agents can drive real workflows against live services. Tested end-to-end with Claude Desktop as the MCP client.
 
-`Java` `Spring Boot` `MCP` `Spring AI`
+`Java` `Spring Boot` `MCP` `Spring AI` `PostgreSQL`
 
 ---
 
