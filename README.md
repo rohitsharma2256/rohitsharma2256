@@ -29,7 +29,7 @@ Currently going deeper on **system design, distributed systems, and production-g
 | **Data** | PostgreSQL · Relational Schema Design · Transactions & Concurrency Control · PGVector |
 | **AI / Agentic** | Spring AI · Model Context Protocol (MCP) · RAG · LLM Tool Integration |
 | **Infra & DevOps** | AWS (EC2, RDS) · Docker (multi-stage, Compose) · Kubernetes · Nginx · Linux · Git · GitHub Actions (CI/CD) |
-| **Core CS** | DSA (Java) · OOP · Multithreading & Concurrency · Low-Level Design · DBMS · OS |
+| **Core CS** | DSA (Java) · OOP · Multithreading & Concurrency · Low-Level Design · DBMS · OS . CN|
 
 ---
 
