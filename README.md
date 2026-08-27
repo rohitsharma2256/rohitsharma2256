@@ -67,7 +67,7 @@ Scalable booking backend across 15+ REST endpoints. The interesting part is **co
 
 ### 🎫 [AI-Driven Ticketing System](https://github.com/rohitsharma2256/AI-Ticketing-System)
 
-Self-service helpdesk backend running the full ticket lifecycle — automatic priority detection, team routing, resolution — built with a **pluggable classification layer** so LLM-based categorization drops in without touching core services. Extensibility as a design decision, not an afterthought.
+Self-Service helpdesk backend running the full ticket lifecycle — automatic priority detection, team routing, resolution — built with a **pluggable classification layer** so LLM-based categorization drops in without touching core services. Extensibility as a design decision, not an afterthought.
 
 `Java 21` `Spring Boot` `Spring AI` `PostgreSQL`
 
