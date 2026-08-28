@@ -33,7 +33,7 @@ Currently going deeper on **system design, distributed systems, and production-g
 
 ---
 
-## 📂 Projects worth your time
+## 📂 Projects worth your precious time
 
 ### 🧾 [ComplianceIQ — AI Payroll Compliance SaaS](https://github.com/rohitsharma2256/complianceiq-showcase) &nbsp; [`🔴 Live Demo`](https://compliance-iq.co.in)
 
