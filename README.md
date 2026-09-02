@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Sharma
 
-**Java backend engineer** who ships production Spring Boot systems — and works on the part of backend that's getting genuinely interesting right now: **giving LLM agents safe, deterministic control over real backend operations.**
+**Java Backend Engineer** who ships production Spring Boot systems — and works on the part of backend that's getting genuinely interesting right now: **giving LLM agents safe, deterministic control over real backend operations.**
 
 Most of my time goes into **Java + Spring Boot**, and I go deep on **Model Context Protocol (MCP)** and **Spring AI** — architecting systems where an agent *selects* the action but the server *owns execution*, so business logic stays deterministic and auditable instead of hallucinated. It's a design problem more than a prompt problem, and that's what makes it fun.
 
