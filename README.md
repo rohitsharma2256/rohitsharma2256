@@ -73,7 +73,7 @@ Self-Service helpdesk backend running the full ticket lifecycle — automatic pr
 
 ---
 
-## 📫 Reach me
+## 📫 Reach Me
 
 🌐 [Portfolio](https://rohit-portfolio-nine-azure.vercel.app/) &nbsp;·&nbsp; 📧 [Email](mailto:rohitsharma250602@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rohit-sharma-14aab6293/) &nbsp;·&nbsp; 🧩 [LeetCode](https://leetcode.com/u/rohitsharma250602/)
 
