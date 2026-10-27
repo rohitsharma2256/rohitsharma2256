@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Rohit Sharma
+# 👋 Hi, I’m Rohit Sharma
 
-**Java Backend Engineer** who ships production Spring Boot systems — and works on the part of backend that's getting genuinely interesting right now: **giving LLM agents safe, deterministic control over real backend operations.**
+Java Backend Engineer building production Spring Boot systems — currently focused on one of backend’s most interesting frontiers: giving LLM agents safe, deterministic control over real backend operations.
 
-Most of my time goes into **Java + Spring Boot**, and I go deep on **Model Context Protocol (MCP)** and **Spring AI** — architecting systems where an agent *selects* the action but the server *owns execution*, so business logic stays deterministic and auditable instead of hallucinated. It's a design problem more than a prompt problem, and that's what makes it fun.
+I work primarily in Java 21 + Spring Boot, going deep on Model Context Protocol (MCP) and Spring AI. I architect systems where the agent selects an action but the server owns execution — tool calls flow through typed, validated service methods inside ACID-compliant transactional boundaries, with concurrency control and idempotency guarantees, so business logic stays deterministic, auditable, and consistent instead of hallucinated. The model orchestrates; the server enforces correctness.
 
+Beneath the applications, I care about the fundamentals that make them reliable — data structures & algorithms, OOP design, concurrency & multithreading, operating systems, DBMS internals (indexing, query optimization, isolation levels), and computer networks (HTTP/TLS). To me, backend is a systems-design problem, not a prompt problem — and that’s what makes it fun.
 🚀 **Live in production:** [ComplianceIQ](https://compliance-iq.co.in) — a multi-tenant AI SaaS on AWS automating Indian payroll compliance for CA firms.
 
 ---
